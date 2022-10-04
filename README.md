@@ -8,7 +8,7 @@ The instructions were given in the [subject](https://github.com/bshintak/Libft/b
 
 ##### First part
 
-- [`ft_isalpha`](ft_isalpha.c)			- test for alphabetic character.
+- [ft_isalpha](ft_isalpha.c)			- test for alphabetic character.
 - [`ft_isdigit`](ft_isdigit.c)			- test for decimal-digit character.
 - [`ft_isalnum`](ft_isalnum.c)			- test for alphanumeric character.
 - [`ft_isascii`](ft_isascii.c)			- test for ASCII character.
