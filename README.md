@@ -2,7 +2,7 @@
 
 Libft is the first project of the school 42.
 
-- [`ft_isascii`](Libft/ft_isascii.c)			- test for ASCII character.
+- [`ft_isascii`](ft_isascii.c)			- test for ASCII character.
 - [`ft_isalnum`](Libft/ft_isalnum.c)			- test for alphanumeric character.
 - [`ft_isalpha`](Libft/ft_isalpha.c)			- test for alphabetic character.
 - [`ft_isdigit`](Libft/ft_isdigit.c)			- test for decimal-digit character.
