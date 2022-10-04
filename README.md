@@ -2,7 +2,7 @@
 
 Libft is the first project of the school 42.
 
-### Mandatory part
+### * Mandatory part *
 
 ##### First part
 
@@ -45,7 +45,7 @@ Libft is the first project of the school 42.
 - [`ft_putendl_fd`](ft_putendl_fd.c)		- output string to given file with newline.
 - [`ft_putnbr_fd`](ft_putnbr_fd.c)		- output integer to given file.
 
-### Bonus part
+### * Bonus part *
 
 - [`ft_lstnew`](ft_lstnew.c)				- create new list.
 - [`ft_lstsize`](ft_lstsize.c)			- count elements of a list.
