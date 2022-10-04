@@ -2,6 +2,8 @@
 
 Libft is the first project of the school 42.
 
+### Mandatory part
+
 - [`ft_isascii`](ft_isascii.c)			- test for ASCII character.
 - [`ft_isalnum`](ft_isalnum.c)			- test for alphanumeric character.
 - [`ft_isalpha`](ft_isalpha.c)			- test for alphabetic character.
@@ -36,7 +38,7 @@ Libft is the first project of the school 42.
 - [`ft_split`](ft_split.c)				- split string, with specified character as delimiter, into an array of strings.
 - [`ft_strmapi`](ft_strmapi.c)			- create new string from modifying string with specified function.
 
-### Linked list functions (BONUS)
+### Bonus part
 
 - [`ft_lstnew`](ft_lstnew.c)				- create new list.
 - [`ft_lstsize`](ft_lstsize.c)			- count elements of a list.
