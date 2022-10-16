@@ -7,7 +7,6 @@
  [![Activity](https://img.shields.io/github/last-commit/bshintak/Libft?color=red&label=Last%20Commit&style=flat)](https://github.com/bshintak/Libft)
 
 Libft is the first project of the school 42.
-
 The instructions were given in the [subject](https://github.com/bshintak/Libft/blob/master/subject_libft.pdf).
 
 ### * Mandatory part *
