@@ -19,7 +19,7 @@ The instructions were given in the [subject](https://github.com/bshintak/Libft/b
 - [`ft_isalnum`](ft_isalnum.c)			- test for alphanumeric character.
 - [`ft_isascii`](ft_isascii.c)			- test for ASCII character.
 - [`ft_isprint`](ft_isprint.c)			- test for printing character.
-- [`ft_strlen`](ft_strlen.c)				- find length of string.\
+- [`ft_strlen`](ft_strlen.c)				- find length of string.
 - [`ft_memset`](ft_memset.c)		- write a byte to a byte string.
 - [`ft_bzero`](ft_bzero.c)		- write zeroes to a byte string.
 - [`ft_memcpy`](ft_memcpy.c)		- copy memory area.
