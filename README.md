@@ -2,6 +2,7 @@
 
  [![Intro](https://img.shields.io/badge/Cursus-Libft-success?style=for-the-badge&logo=42)](https://github.com/bshintak/Libft)
  
+ [![norminette](https://github.com/bshintak/Libft/actions/workflows/norminette.yml/badge.svg)](https://github.com/bshintak/Libft/actions/workflows/norminette.yml)
  [![Stars](https://img.shields.io/github/stars/bshintak/Libft?color=ffff00&label=Stars&logo=Stars&style=?style=flat)](https://github.com/bshintak/Libft)
  [![Size](https://img.shields.io/github/repo-size/bshintak/Libft?color=blue&label=Size&logo=Size&style=?style=flat)](https://github.com/bshintak/Libft)
  ![Lines of code](https://img.shields.io/tokei/lines/github/bshintak/Libft?color=blueviolet)
